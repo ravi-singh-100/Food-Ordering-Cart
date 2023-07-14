@@ -5,8 +5,8 @@ This is an Online Food ordering cart build using HTML , CSS , Javascript and Rae
 
 
 ![2023-07-13](https://github.com/ravi-singh-100/Food-Ordering-Cart/assets/84458346/04a346eb-d27e-4646-ab2d-aba8bebe5449)<br>
-
 <br>
+
 ![2023-07-13 (1)](https://github.com/ravi-singh-100/Food-Ordering-Cart/assets/84458346/8d6ab293-ac18-44b7-aafa-45c5dba89ed9)<br>
 <br>
 
